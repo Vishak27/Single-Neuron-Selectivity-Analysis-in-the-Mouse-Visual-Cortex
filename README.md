@@ -58,6 +58,3 @@ This project analyzes **spatial selectivity in single neurons** from the mouse v
 * **pandas**
 * **matplotlib**
 * **scipy**
-
-## Usage
-The main analysis is contained in the Jupyter notebook `Vishak_NeuronTask.ipynb`.
